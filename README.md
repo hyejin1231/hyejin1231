@@ -1,5 +1,8 @@
 <!--### Hi there👋🏻-->
 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=hyejin%20Park&fontSize=90)
+
+
 ### Hello! I'm [@hyejin1231](https://hyejin1231.github.io/#about-me) (hyejin, Park) 🙋🏻‍♀️
 
 #### Skills 🛠
