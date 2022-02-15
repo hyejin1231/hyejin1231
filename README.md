@@ -2,7 +2,8 @@
 
 ### Hello! I'm [@hyejin1231](https://hyejin1231.github.io/#about-me) (hyejin, Park) 🙋🏻‍♀️
 
-#### Tech Stacks 🛠
+#### Skills 🛠
+##### Platforms & Languages 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
