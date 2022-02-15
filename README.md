@@ -3,7 +3,7 @@
 ### Hello! I'm [@hyejin1231](https://hyejin1231.github.io/#about-me) (hyejin, Park) 🙋🏻‍♀️
 
 #### Tech Stacks 🛠
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white"/></a>
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin1231)](https://github.com/anuraghazra/github-readme-stats)-->
