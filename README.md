@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin1231&show_icons=true&theme=radical)
 <br>
 
-**|　　[�👩🏻‍💻 My Page](https://hyejin1231.github.io)　　|　　[📚 Portfolio]()　　|　　[🗓 Blog](https://hyejin.tistory.com/)　　|**
+**|　　[👩🏻‍💻 My Page](https://hyejin1231.github.io)　　|　　[📚 Portfolio]()　　|　　[🗓 Blog](https://hyejin.tistory.com/)　　|**
 
 **✉　E-mail : hyejinbag772@gmail.com**
 <br>
