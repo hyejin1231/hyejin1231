@@ -6,6 +6,9 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin1231)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin1231&show_icons=true&theme=radical)
 <br>
+
+**|　　[👨🏻‍💻 My Page](https://hyejin1231.github.io)　　|　　[📚 Portfolio]()　　|　　[🗓 Blog](https://hyejin.tistory.com/)　　|**
+
 **✉　E-mail : hyejinbag772@gmail.com**
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejin1231&count_bg=%23E53AC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)       
